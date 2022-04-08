@@ -1,5 +1,4 @@
 from PIL import Image
-import logging
 
 WIDTH = 8
 HEIGHT = 8
